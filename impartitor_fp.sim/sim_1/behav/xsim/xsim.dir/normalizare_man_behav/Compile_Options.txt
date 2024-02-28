@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "normalizare_man_behav" "xil_defaultlib.normalizare_man" -log "elaborate.log" 

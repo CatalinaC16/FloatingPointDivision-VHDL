@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"divider_sim_func_synth.vhd" \
+"../../../../../impartitor_fp.srcs/sim_1/new/divider_sim.vhd" \
+
+# Do not sort compile order
+nosort

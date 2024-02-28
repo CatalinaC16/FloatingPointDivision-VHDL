@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.srcs/sources_1/new/catch_exceptions.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'catch_exceptions'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.srcs/sources_1/new/main.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'main'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.srcs/sim_1/new/main_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'main_sim'

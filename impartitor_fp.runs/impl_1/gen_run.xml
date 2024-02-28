@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1705268844">
+  <File Type="ROUTE-PWR" Name="mainTop_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="mainTop.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="mainTop_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="mainTop_reports.tcl"/>
+  <File Type="OPT-RQA-PB" Name="mainTop_rqa_opted.pb"/>
+  <File Type="BITSTR-MMI" Name="mainTop.mmi"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="mainTop_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="mainTop_timing_summary_init.rpt"/>
+  <File Type="OPT-TIMING" Name="mainTop_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="mainTop_opt.dcp"/>
+  <File Type="OPT-DRC" Name="mainTop_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="mainTop.hwdef"/>
+  <File Type="PWROPT-DCP" Name="mainTop_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="mainTop_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="mainTop_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="mainTop_placed.dcp"/>
+  <File Type="PLACE-IO" Name="mainTop_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="mainTop_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="mainTop_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="mainTop_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="mainTop_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="mainTop_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="mainTop_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BIN" Name="mainTop.bin"/>
+  <File Type="PLACE-TIMING" Name="mainTop_timing_summary_placed.rpt"/>
+  <File Type="ROUTE-PWR-RPX" Name="mainTop_power_routed.rpx"/>
+  <File Type="PLACE-RQA-PB" Name="mainTop_rqa_placed.pb"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="mainTop_postplace_pwropt.dcp"/>
+  <File Type="BITSTR-MSK" Name="mainTop.msk"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="mainTop_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="mainTop_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="mainTop_drc_physopted.rpt"/>
+  <File Type="BITSTR-RBT" Name="mainTop.rbt"/>
+  <File Type="PHYSOPT-TIMING" Name="mainTop_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="mainTop_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="mainTop_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="mainTop_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="mainTop_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="mainTop_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="mainTop_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="mainTop_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="mainTop_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="mainTop_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-RQS-PB" Name="mainTop_rqs_routed.pb"/>
+  <File Type="ROUTE-STATUS" Name="mainTop_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="mainTop_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="mainTop_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="mainTop_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="mainTop_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="mainTop_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="mainTop_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="mainTop_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="mainTop_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="mainTop_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="mainTop_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="mainTop_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="mainTop_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="mainTop_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="mainTop_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="mainTop_bus_skew_postroute_physopted.rpt"/>
+  <File Type="BG-BIT" Name="mainTop.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="mainTop_bus_skew_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="mainTop_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-NKY" Name="mainTop.nky"/>
+  <File Type="BITSTR-BMM" Name="mainTop_bd.bmm"/>
+  <File Type="PDI-FILE" Name="mainTop.pdi"/>
+  <File Type="BOOT-PDI-FILE" Name="mainTop_soc.pdi"/>
+  <File Type="PL-PDI-FILE" Name="mainTop_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="mainTop.rcfi"/>
+  <File Type="CFI_FILE" Name="mainTop.cfi"/>
+  <File Type="RNPI_FILE" Name="mainTop.rnpi"/>
+  <File Type="NPI_FILE" Name="mainTop.npi"/>
+  <File Type="RBD_FILE" Name="mainTop.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="mainTop.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="mainTop.sysdef"/>
+  <File Type="BG-BGN" Name="mainTop.bgn"/>
+  <File Type="BG-DRC" Name="mainTop.drc"/>
+  <File Type="RDI-RDI" Name="mainTop.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="ROUTE-RQS" Name="mainTop_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="mainTop_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/UC.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/UC_divider.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/UC_normalization.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/assamble.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/assign_values.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bistabil.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/catch_exceptions.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/display7seg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sumator.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/reg_depl_stg.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/reg_depl_dr.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/divider.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/exponent.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/sign.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/exp_sgn.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/rounding.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/normalizare_mantisa.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/normalizare_exponent.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/normalization.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/main.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/mainTop.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="mainTop"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/divider_fp.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/divider.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>

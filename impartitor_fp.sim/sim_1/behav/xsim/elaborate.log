@@ -1,0 +1,38 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot main_sim_behav xil_defaultlib.main_sim -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_signed
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.UC [uc_default]
+Compiling architecture behavioral of entity xil_defaultlib.assign_values [assign_values_default]
+Compiling architecture behavioral of entity xil_defaultlib.catch_exceptions [catch_exceptions_default]
+Compiling architecture behavioral of entity xil_defaultlib.UC_divider [\UC_divider(n=48)\]
+Compiling architecture behavioral of entity xil_defaultlib.sumator [\sumator(n=96)\]
+Compiling architecture behavioral of entity xil_defaultlib.reg_depl_stg [\reg_depl_stg(n=96)\]
+Compiling architecture behavioral of entity xil_defaultlib.bistabil [bistabil_default]
+Compiling architecture behavioral of entity xil_defaultlib.reg_depl_dr [\reg_depl_dr(n=96)\]
+Compiling architecture behavioral of entity xil_defaultlib.divider [divider_default]
+Compiling architecture behavioral of entity xil_defaultlib.exponent [exponent_default]
+Compiling architecture behavioral of entity xil_defaultlib.sign [sign_default]
+Compiling architecture behavioral of entity xil_defaultlib.exp_sgn [exp_sgn_default]
+Compiling architecture behavioral of entity xil_defaultlib.UC_normalization [uc_normalization_default]
+Compiling architecture behavioral of entity xil_defaultlib.rounding [rounding_default]
+Compiling architecture behavioral of entity xil_defaultlib.normalizare_mantisa [normalizare_mantisa_default]
+Compiling architecture behavioral of entity xil_defaultlib.normalizare_exponent [normalizare_exponent_default]
+Compiling architecture behavioral of entity xil_defaultlib.assamble [assamble_default]
+Compiling architecture behavioral of entity xil_defaultlib.normalization [normalization_default]
+Compiling architecture behavioral of entity xil_defaultlib.main [main_default]
+Compiling architecture behavioral of entity xil_defaultlib.main_sim
+Built simulation snapshot main_sim_behav

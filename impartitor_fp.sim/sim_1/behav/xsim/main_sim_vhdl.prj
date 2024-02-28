@@ -1,0 +1,25 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../impartitor_fp.srcs/sources_1/new/UC.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/UC_divider.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/UC_normalization.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/assamble.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/assign_values.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/bistabil.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/catch_exceptions.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/sumator.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/reg_depl_stg.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/reg_depl_dr.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/divider.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/exponent.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/sign.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/exp_sgn.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/normalizare_exponent.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/rounding.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/normalizare_mantisa.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/normalization.vhd" \
+"../../../../impartitor_fp.srcs/sources_1/new/main.vhd" \
+"../../../../impartitor_fp.srcs/sim_1/new/main_sim.vhd" \
+
+# Do not sort compile order
+nosort

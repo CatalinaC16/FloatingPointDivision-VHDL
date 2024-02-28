@@ -1,0 +1,10 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.sim/sim_1/synth/func/xsim/divider_sim_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'UC'
+INFO: [VRFC 10-3107] analyzing entity 'reg_depl_stg'
+INFO: [VRFC 10-3107] analyzing entity 'reg_depl_stg_0'
+INFO: [VRFC 10-3107] analyzing entity 'divider'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.srcs/sim_1/new/divider_sim.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'divider_sim'
+ERROR: [VRFC 10-3342] formal 'n' is not a generic [D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.srcs/sim_1/new/divider_sim.vhd:26]
+ERROR: [VRFC 10-9458] unit 'behavioral' is ignored due to previous errors [D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.srcs/sim_1/new/divider_sim.vhd:8]
+INFO: [VRFC 10-8704] VHDL file 'D:/AN_3/An3_sem1/SSC/impartitor_fp/impartitor_fp.srcs/sim_1/new/divider_sim.vhd' is ignored due to errors
